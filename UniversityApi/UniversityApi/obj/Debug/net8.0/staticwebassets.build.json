@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "6kvnx3mF+99NeD+6TNF7yqCZ0OnxpRASggwL3934Xy0=",
+  "Source": "UniversityApi",
+  "BasePath": "_content/UniversityApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UniversityApi\\wwwroot",
+      "Source": "UniversityApi",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Task1\\UniversityApi\\UniversityApi\\wwwroot\\",
+      "BasePath": "_content/UniversityApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

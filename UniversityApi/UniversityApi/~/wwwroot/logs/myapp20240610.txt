@@ -1,0 +1,9 @@
+2024-06-10 12:02:52.607 +04:00 [INF] Request GET: /api/Groups
+2024-06-10 12:02:52.665 +04:00 [INF] Request Payload: 
+2024-06-10 12:02:53.574 +04:00 [INF] Response 200: [{"id":0,"no":"strin","limit":18},{"id":0,"no":"400","limit":20},{"id":0,"no":"Pb302","limit":17}]
+2024-06-10 18:31:14.006 +04:00 [INF] Request POST: /api/Groups
+2024-06-10 18:31:14.085 +04:00 [INF] Request Payload: {
+  "no": "1",
+  "limit": 1
+}
+2024-06-10 18:31:14.531 +04:00 [INF] Response 400: {"message":"","errors":[{"key":"No","message":"'No', 4 simvoldan böyük və ya bərabər olmalıdır. 1 simvol daxil etmisiniz."},{"key":"Limit","message":"'Limit', 5 və 18 aralığında olmalıdır. 1 dəyərini daxil etmisiniz."}]}
